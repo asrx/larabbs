@@ -9,3 +9,10 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+.idea/encodings.xml
+.idea/larabbs.iml
+.idea/php.xml
+.idea/vcs.xml
+.idea/dictionaries/Jerry.xml
+.idea/*
+.idea/
